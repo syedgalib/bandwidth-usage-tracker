@@ -1,0 +1,24 @@
+{
+  "name": "bandwidth-usage-tracker",
+  "version": "0.1.0",
+  "description": "This package helps you to track the bandwidth usage of the AJAX requests processed by your application.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedgalib/bandwidth-usage-tracker.git"
+  },
+  "keywords": [
+    "bandwidth-usage-tracker",
+    "bandwidth usage",
+    "network usage",
+    "bandwidth-monitor",
+    "bandwidth monitor",
+    "network monitor"
+  ],
+  "author": "Syed Galib Ahmed",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/syedgalib/bandwidth-usage-tracker/issues"
+  },
+  "homepage": "https://github.com/syedgalib/bandwidth-usage-tracker#readme"
+}

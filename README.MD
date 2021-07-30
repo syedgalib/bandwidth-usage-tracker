@@ -5,13 +5,13 @@ It's it wrapper around [axios](https://www.npmjs.com/package/axios) which is a p
 
 # Installing
 Using npm:
-```
+```shell
 npm install bandwidth-usage-tracker
 npm install axios
 ```
 
 # Example
-```
+```js
 import bandwidthMonitor from bandwidth-usage-tracker;
 const axios = require('axios').default;
 

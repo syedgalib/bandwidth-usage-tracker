@@ -1,7 +1,7 @@
 # Bandwidth Usage Tracker
 This package helps you to track the bandwidth usage of the AJAX requests processed by your application.
 
-It's it wrapper around [axios](https://www.npmjs.com/package/axios) which is a popular Promise based HTTP client for hadling AJAX request.
+It's a wrapper around [axios](https://www.npmjs.com/package/axios) which is a popular Promise based HTTP client for hadling AJAX request.
 
 # Installing
 Using npm:
